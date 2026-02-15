@@ -228,6 +228,12 @@
       overflow: hidden;
     }
 
+    .card-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
     .card-image::before {
       content: '';
       position: absolute;
@@ -244,6 +250,11 @@
     .card-image-icon {
       font-size: 3rem;
       opacity: 0.3;
+    }
+
+    .card-image.has-image::before,
+    .card-image.has-image::after {
+      display: none;
     }
 
     .discount-badge {
@@ -448,6 +459,7 @@
         condition: 'new',
         targetPrice: 600,
         url: 'https://www.vexio.ro/procesoare/amd/2726599-ryzen-5-5600-3-50ghz-socket-am4-tray-fara-cooler/',
+        imageUrl: 'https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=400&h=300&fit=crop',
         isGoodDeal: true
       },
       {
@@ -461,6 +473,7 @@
         condition: 'new',
         targetPrice: 700,
         url: 'https://altex.ro/procesor-amd-ryzen-5-5600x-3-7ghz-4-6ghz-socket-am4-100-100000065box/',
+        imageUrl: 'https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=400&h=300&fit=crop',
         isGoodDeal: true
       },
       {
@@ -474,6 +487,7 @@
         condition: 'new',
         targetPrice: 500,
         url: 'https://www.pcgarage.ro/',
+        imageUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=300&fit=crop',
         isGoodDeal: true
       },
       {
@@ -487,6 +501,7 @@
         condition: 'used',
         targetPrice: 2800,
         url: 'https://olx.ro/',
+        imageUrl: 'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop',
         isGoodDeal: true
       },
       {
@@ -500,6 +515,7 @@
         condition: 'open-box',
         targetPrice: 2500,
         url: 'https://www.vexio.ro/',
+        imageUrl: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop',
         isGoodDeal: true
       },
       {
@@ -513,6 +529,7 @@
         condition: 'new',
         targetPrice: 2000,
         url: 'https://altex.ro/',
+        imageUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=300&fit=crop',
         isGoodDeal: true
       },
       {
@@ -526,6 +543,7 @@
         condition: 'new',
         targetPrice: 900,
         url: 'https://www.pcgarage.ro/',
+        imageUrl: 'https://images.unsplash.com/photo-1563206767-5b1d97299336?w=400&h=300&fit=crop',
         isGoodDeal: false
       },
       {
@@ -539,6 +557,7 @@
         condition: 'used',
         targetPrice: 2200,
         url: 'https://olx.ro/',
+        imageUrl: 'https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=400&h=300&fit=crop',
         isGoodDeal: true
       }
     ];
@@ -550,8 +569,10 @@
       
       grid.innerHTML = filtered.map((deal, index) => `
         <article class="deal-card ${deal.isGoodDeal ? 'good-deal' : ''}" style="animation-delay: ${index * 0.1}s">
-          <div class="card-image">
-            <span class="card-image-icon">${deal.category === 'cpu' ? '🔲' : '💻'}</span>
+          <div class="card-image ${deal.imageUrl ? 'has-image' : ''}">
+            ${deal.imageUrl 
+              ? `<img src="${deal.imageUrl}" alt="${deal.title}" onerror="this.style.display='none';this.parentElement.classList.remove('has-image');this.parentElement.innerHTML='<span class=\\'card-image-icon\\'>${deal.category === 'cpu' ? '🔲' : '💻'}</span>'">` 
+              : `<span class="card-image-icon">${deal.category === 'cpu' ? '🔲' : '💻'}</span>`}
             <span class="discount-badge">-${deal.discount}%</span>
           </div>
           <div class="card-body">
