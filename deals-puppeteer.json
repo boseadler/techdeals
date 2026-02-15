@@ -1,0 +1,116 @@
+[
+  {
+    "url": "https://altex.ro/procesor-amd-ryzen-5-5600-3-5ghz-4-4ghz-socket-am4-100-100000927box/",
+    "category": "cpu",
+    "store": "Altex",
+    "title": "Top Oferte",
+    "price": "1.199",
+    "originalPrice": "",
+    "imageURL": ""
+  },
+  {
+    "url": "https://altex.ro/procesor-amd-ryzen-5-5600x-3-7ghz-4-6ghz-socket-am4-100-100000065box/",
+    "category": "cpu",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/procesor-amd-ryzen-5-5600x-3-7ghz-4-6ghz-socket-am4-100-100000065box/"
+  },
+  {
+    "url": "https://altex.ro/procesor-amd-ryzen-7-5800x-3-8ghz-4-7ghz-socket-am4-100-100000064box/",
+    "category": "cpu",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/procesor-amd-ryzen-7-5800x-3-8ghz-4-7ghz-socket-am4-100-100000064box/"
+  },
+  {
+    "url": "https://altex.ro/procesor-intel-core-i5-12400f-2-5ghz-4-4ghz-socket-1700-100-100000465box/",
+    "category": "cpu",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/procesor-intel-core-i5-12400f-2-5ghz-4-4ghz-socket-1700-100-100000465box/"
+  },
+  {
+    "url": "https://altex.ro/procesor-intel-core-i5-12600k-3-7ghz-4-9ghz-socket-1700-100-100000061box/",
+    "category": "cpu",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/procesor-intel-core-i5-12600k-3-7ghz-4-9ghz-socket-1700-100-100000061box/"
+  },
+  {
+    "url": "https://altex.ro/procesor-amd-ryzen-9-5900x-3-7ghz-4-8ghz-socket-am4-100-100000063box/",
+    "category": "cpu",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/procesor-amd-ryzen-9-5900x-3-7ghz-4-8ghz-socket-am4-100-100000063box/"
+  },
+  {
+    "url": "https://www.vexio.ro/procesoare/amd/2726599-ryzen-5-5600-3-50ghz-socket-am4-tray-fara-cooler/",
+    "category": "cpu",
+    "store": "Vexio",
+    "title": "Procesor AMD Ryzen 5 5600 3.50GHz, Socket AM4, Tray, fara cooler",
+    "price": "1.162,99 lei",
+    "originalPrice": "",
+    "imageURL": "https://cdn.vexio.ro/images/products/img_202407240952/2726599/full/procesor-amd-amd-ryzen-5-5600-tray-5750152.jpg"
+  },
+  {
+    "url": "https://www.vexio.ro/procesoare/amd/2726601-ryzen-7-5800x-3-80ghz-socket-am4-tray-fara-cooler/",
+    "category": "cpu",
+    "store": "Vexio",
+    "title": "www.vexio.ro",
+    "price": "",
+    "originalPrice": "",
+    "imageURL": ""
+  },
+  {
+    "url": "https://www.vexio.ro/procesoare/intel/2619405-core-i5-12400f-2-50ghz-socket-1700-tray/",
+    "category": "cpu",
+    "store": "Vexio",
+    "title": "www.vexio.ro",
+    "price": "",
+    "originalPrice": "",
+    "imageURL": ""
+  },
+  {
+    "url": "https://altex.ro/laptop-hp-probook-450-g9-intel-core-i5-1235u-pana-la-4-4ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-11-pro-argintiu/",
+    "category": "laptop",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/laptop-hp-probook-450-g9-intel-core-i5-1235u-pana-la-4-4ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-11-pro-argintiu/"
+  },
+  {
+    "url": "https://altex.ro/laptop-asus-vivobook-go-15-l1504fa-bq611-amd-ryzen-5-7520u-pana-la-4-3ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-610m-free-dos-mixed-black/",
+    "category": "laptop",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/laptop-asus-vivobook-go-15-l1504fa-bq611-amd-ryzen-5-7520u-pana-la-4-3ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-610m-free-dos-mixed-black/"
+  },
+  {
+    "url": "https://altex.ro/laptop-lenovo-ideapad-3-15iau7-intel-core-i5-1235u-pana-la-4-4ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-free-dos/",
+    "category": "laptop",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/laptop-lenovo-ideapad-3-15iau7-intel-core-i5-1235u-pana-la-4-4ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-free-dos/"
+  },
+  {
+    "url": "https://altex.ro/laptop-dell-vostro-3520-intel-core-i5-1235u-pana-la-4-4ghz-15-6-full-hd-16gb-ssd-512gb-intel-uhd-graphics-windows-11-pro/",
+    "category": "laptop",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/laptop-dell-vostro-3520-intel-core-i5-1235u-pana-la-4-4ghz-15-6-full-hd-16gb-ssd-512gb-intel-uhd-graphics-windows-11-pro/"
+  },
+  {
+    "url": "https://altex.ro/laptop-asus-vivobook-15-x1504za-nj302w-amd-ryzen-3-7320u-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-amd-radeon-610m-windows-11-silver/",
+    "category": "laptop",
+    "store": "Altex",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://altex.ro/laptop-asus-vivobook-15-x1504za-nj302w-amd-ryzen-3-7320u-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-amd-radeon-610m-windows-11-silver/"
+  },
+  {
+    "url": "https://www.vexio.ro/laptopuri/2886525-vivobook-15-x1504za-nj302w-amd-ryzen-3-7320u-15-6-fhd-8gb-256gb-win11/",
+    "category": "laptop",
+    "store": "Vexio",
+    "title": "www.vexio.ro",
+    "price": "",
+    "originalPrice": "",
+    "imageURL": ""
+  },
+  {
+    "url": "https://www.vexio.ro/laptopuri/2886526-vivobook-15-o1504za-bq074w-intel-core-i3-1215u-15-6-fhd-8gb-256gb-win11/",
+    "category": "laptop",
+    "store": "Vexio",
+    "title": "www.vexio.ro",
+    "price": "",
+    "originalPrice": "",
+    "imageURL": ""
+  }
+]
