@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "title": "Procesor AMD Ryzen 5 5600, 3.5GHz/4.4GHz, Socket AM4, 100-100000927BOX",
+    "price": "",
+    "originalPrice": "",
+    "discount": "",
+    "store": "Altex",
+    "category": "cpu",
+    "condition": "",
+    "imageUrl": "https://lcdn.altex.ro/resize/media/catalog/product/a/m/2bd48d28d1c32adea0e55139a4e6434a/amd_ryzen_5_seria_5000_box_1.jpg",
+    "url": "https://altex.ro/procesor-amd-ryzen-5-5600-3-5ghz-4-4ghz-socket-am4-100-100000927box/",
+    "isGoodDeal": false
+  },
+  {
+    "id": "3",
+    "title": "Procesor AMD Ryzen 5 5600 3.50GHz, Socket AM4, Tray, fara cooler",
+    "price": "1.881,99 lei",
+    "originalPrice": "",
+    "discount": "",
+    "store": "Vexio",
+    "category": "cpu",
+    "condition": "",
+    "imageUrl": "https://cdn.vexio.ro/images/products/img_202407240952/2726599/full/procesor-amd-amd-ryzen-5-5600-tray-5750152.jpg",
+    "url": "https://www.vexio.ro/procesoare/amd/2726599-ryzen-5-5600-3-50ghz-socket-am4-tray-fara-cooler/",
+    "isGoodDeal": false
+  }
+]
