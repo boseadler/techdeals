@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "",
+    "price": "",
+    "originalPrice": "",
+    "store": "Altex",
+    "category": "cpu",
+    "imageUrl": "",
+    "url": "https://altex.ro/procesor-amd-ryzen-5-5600-3-5ghz-4-4ghz-socket-am4-100-100000927box/"
+  },
+  {
+    "id": "2",
+    "title": "",
+    "price": "",
+    "originalPrice": "",
+    "store": "Altex",
+    "category": "cpu",
+    "imageUrl": "",
+    "url": "https://altex.ro/procesor-amd-ryzen-5-5600x-3-7ghz-4-6ghz-socket-am4-100-100000065box/"
+  },
+  {
+    "id": "3",
+    "title": "Procesor AMD Ryzen 5 5600 3.50GHz, Socket AM4, Tray, fara cooler",
+    "price": "769,99 lei",
+    "originalPrice": "",
+    "store": "Vexio",
+    "category": "cpu",
+    "imageUrl": "https://cdn.vexio.ro/images/products/img_202407240952/2726599/full/procesor-amd-amd-ryzen-5-5600-tray-5750152.jpg",
+    "url": "https://www.vexio.ro/procesoare/amd/2726599-ryzen-5-5600-3-50ghz-socket-am4-tray-fara-cooler/"
+  },
+  {
+    "id": "4",
+    "title": "",
+    "price": "",
+    "originalPrice": "",
+    "store": "Altex",
+    "category": "laptop",
+    "imageUrl": "",
+    "url": "https://altex.ro/laptop-hp-probook-450-g9-intel-core-i5-1235u-pana-la-4-4ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-11-pro-argintiu/"
+  },
+  {
+    "id": "5",
+    "title": "Laptop ASUS Vivobook Go 15 L1504FA-BQ611, AMD Ryzen 5 7520U pana la 4.3GHz, 15.6\" Full HD, 8GB, SSD 512GB, AMD Radeon 610M, Free Dos, Mixed Black",
+    "price": "",
+    "originalPrice": "",
+    "store": "Altex",
+    "category": "laptop",
+    "imageUrl": "https://lcdn.altex.ro/resize/media/catalog/product/v/i/2bd48d28d1c32adea0e55139a4e6434a/vivobook_go_15_mixed_black_non_fingerprint_non_backlit_1_971cf4ba.jpg",
+    "url": "https://altex.ro/laptop-asus-vivobook-go-15-l1504fa-bq611-amd-ryzen-5-7520u-pana-la-4-3ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-610m-free-dos-mixed-black/"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "RCA Ieftin\nRetur\nService\nContact\nComponente & Periferice\nProcesoare\nProcesor. Cumpara procesoare online\nSorteaza dupa:\nVandute\nVazute\nPret\nPret descrescator\nNoutati\n \nrecomandat\n799",
+    "price": "799 lei",
+    "store": "Cel.ro",
+    "category": "cpu",
+    "imageUrl": "https://s1.cel.ro/images/logo/cel.png",
+    "url": "https://www.cel.ro/procesoare/"
+  },
+  {
+    "id": "2",
+    "title": "AMD Ryzen 7 5700x AM4 Tray",
+    "price": "799 lei",
+    "store": "Cel.ro",
+    "category": "cpu",
+    "imageUrl": "https://s1.cel.ro/images/Products/2024/12/01/16T-3-40-4-60-GHz-36-MB-cache-65-W.jpg",
+    "url": "https://www.cel.ro/procesoare/"
+  },
+  {
+    "id": "3",
+    "title": "AMD Ryzen 7 7800x3d AM5 Tray",
+    "price": "1599 lei",
+    "store": "Cel.ro",
+    "category": "cpu",
+    "imageUrl": "https://s1.cel.ro/images/Products/2025/09/02/Procesor-AMD-Ryzen-7-7800X3D-4-2GHz-DDR5-Tray.jpg",
+    "url": "https://www.cel.ro/procesoare/"
+  },
+  {
+    "id": "4",
+    "title": "AMD Ryzen 5 5500 AM4 Box",
+    "price": "474 lei",
+    "store": "Cel.ro",
+    "category": "cpu",
+    "imageUrl": "https://s1.cel.ro/images/Products/2022/04/14/Procesor-AMD-Ryzen-5-5500-3-6GHz-Socket-AM4-Box.jpg",
+    "url": "https://www.cel.ro/procesoare/"
+  }
+]
