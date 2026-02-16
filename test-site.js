@@ -4,7 +4,7 @@ puppeteer.use(StealthPlugin());
 
 const SITES = [
   'https://boseadler.github.io/techdeals/',
-  'http://localhost:8080',
+  // Localhost disabled - using Tailscale instead
 ];
 
 async function test() {
