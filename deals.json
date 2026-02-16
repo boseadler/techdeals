@@ -1,67 +1,56 @@
 [
   {
     "id": "1",
-    "title": "AMD Ryzen 5 5500 - 6-Core, 3.6GHz, AM4, Box",
-    "price": "474",
-    "originalPrice": "550",
-    "discount": "14",
+    "title": "RCA Ieftin\nRetur\nService\nContact\nComponente & Periferice\nProcesoare\nProcesor. Cumpara procesoare online\nSorteaza dupa:\nVandute\nVazute\nPret\nPret descrescator\nNoutati\n \nrecomandat\n799",
+    "price": "799 lei",
     "store": "Cel.ro",
     "category": "cpu",
-    "condition": "new",
-    "imageUrl": "https://s1.cel.ro/images/Products/2022/04/14/Procesor-AMD-Ryzen-5-5500-3-6GHz-Socket-AM4-Box.jpg",
-    "url": "https://www.cel.ro/procesoare/",
-    "isGoodDeal": true
+    "imageUrl": "https://s1.cel.ro/images/logo/cel.png",
+    "url": "https://www.cel.ro/procesoare/"
   },
   {
     "id": "2",
-    "title": "AMD Ryzen 5 5600 - 6-Core, 3.5GHz, AM4, Tray",
-    "price": "569.99",
-    "originalPrice": "650",
-    "discount": "12",
-    "store": "Vexio",
+    "title": "AMD Ryzen 7 5700x AM4 Tray",
+    "price": "799 lei",
+    "store": "Cel.ro",
     "category": "cpu",
-    "condition": "new",
-    "imageUrl": "https://cdn.vexio.ro/images/products/img_202407240952/2726599/full/procesor-amd-amd-ryzen-5-5600-tray-5750152.jpg",
-    "url": "https://www.vexio.ro/procesoare/amd/2726599-ryzen-5-5600-3-50ghz-socket-am4-tray-fara-cooler/",
-    "isGoodDeal": true
+    "imageUrl": "https://s1.cel.ro/images/Products/2024/12/01/16T-3-40-4-60-GHz-36-MB-cache-65-W.jpg",
+    "url": "https://www.cel.ro/procesoare/"
   },
   {
     "id": "3",
-    "title": "AMD Ryzen 5 5600X - 6-Core, 3.7GHz, AM4, Tray",
-    "price": "704.99",
-    "originalPrice": "800",
-    "discount": "12",
-    "store": "Vexio",
+    "title": "AMD Ryzen 7 7800x3d AM5 Tray",
+    "price": "1599 lei",
+    "store": "Cel.ro",
     "category": "cpu",
-    "condition": "new",
-    "imageUrl": "https://cdn.vexio.ro/images/products/img_202203151103/591901/full/procesor-amd-ryzen-5-5600x-3-7-ghz-32-mb-l3-tray-2067155.webp",
-    "url": "https://www.vexio.ro/procesoare/amd/591901-ryzen-5-5600x-3-7-ghz-32-mb-l3-tray/",
-    "isGoodDeal": true
+    "imageUrl": "https://s1.cel.ro/images/Products/2025/09/02/Procesor-AMD-Ryzen-7-7800X3D-4-2GHz-DDR5-Tray.jpg",
+    "url": "https://www.cel.ro/procesoare/"
   },
   {
     "id": "4",
-    "title": "AMD Ryzen 7 5700X - 8-Core, 3.4GHz, AM4, Tray",
-    "price": "799",
-    "originalPrice": "950",
-    "discount": "16",
+    "title": "AMD Ryzen 5 5500 AM4 Box",
+    "price": "474 lei",
     "store": "Cel.ro",
     "category": "cpu",
-    "condition": "new",
-    "imageUrl": "https://s1.cel.ro/images/Products/2024/12/01/16T-3-40-4-60-GHz-36-MB-cache-65-W.jpg",
-    "url": "https://www.cel.ro/procesoare/",
-    "isGoodDeal": true
+    "imageUrl": "https://s1.cel.ro/images/Products/2022/04/14/Procesor-AMD-Ryzen-5-5500-3-6GHz-Socket-AM4-Box.jpg",
+    "url": "https://www.cel.ro/procesoare/"
   },
   {
     "id": "5",
-    "title": "AMD Ryzen 7 7800X3D - 8-Core, 4.2GHz, AM5, Tray (Gaming King)",
-    "price": "1599",
-    "originalPrice": "2100",
-    "discount": "24",
-    "store": "Cel.ro",
+    "title": "Procesor AMD Ryzen 5 5600 3.50GHz, Socket AM4, Tray, fara cooler",
+    "price": "569.99 lei",
+    "store": "Vexio",
     "category": "cpu",
-    "condition": "new",
-    "imageUrl": "https://s1.cel.ro/images/Products/2025/09/02/Procesor-AMD-Ryzen-7-7800X3D-4-2GHz-DDR5-Tray.jpg",
-    "url": "https://www.cel.ro/procesoare/",
-    "isGoodDeal": true
+    "imageUrl": "",
+    "url": "https://www.vexio.ro/procesoare/amd/2726599-ryzen-5-5600-3-50ghz-socket-am4-tray-fara-cooler/"
+  },
+  {
+    "id": "6",
+    "title": "Procesor AMD Ryzen 5 5600X 3.7 GHz 32 MB L3 TRAY",
+    "price": "704.99 lei",
+    "store": "Vexio",
+    "category": "cpu",
+    "imageUrl": "",
+    "url": "https://www.vexio.ro/procesoare/amd/591901-ryzen-5-5600x-3-7-ghz-32-mb-l3-tray/"
   }
 ]
